@@ -1,6 +1,6 @@
 This is Fukawa Keitō's homepage.
 
-[Research](#research)	[Teaching](#teaching)	[Useful Sources](#useful_sources)	
+[<ins>Research</ins>](#research)   [<ins>Teaching</ins>](#teaching)	    [<ins>Useful Sources</ins>](#useful_sources)	
 
 
 
